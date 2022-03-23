@@ -1,0 +1,20 @@
+
+public class Questao4Lista2 {
+public static void main(String[] args) {
+        
+        int[] num = new int[100];
+        Random aleratorio = new Random();
+        
+
+        for (int i = 0; i < 100; i++) {
+            num[i] = aleratorio.nextInt();
+
+            for (int f = 2; f < (num[i] / 2); f++) {
+                if ((num[i] % f) != 0) {
+                    System.out.println(num[i]);
+                    break;
+                }
+            }
+        }  
+    }
+}

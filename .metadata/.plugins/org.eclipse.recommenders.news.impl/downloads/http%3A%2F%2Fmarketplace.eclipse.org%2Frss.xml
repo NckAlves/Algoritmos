@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>https://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>SVEditor</title>
+    <link>https://marketplace.eclipse.org/content/sveditor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mballance/listings&quot; title=&quot;Matthew Ballance&quot;&gt;Matthew Ballance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2010-02-07 20:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2022-03-23 13:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Matthew%20Ballance%22&quot;&gt;Matthew Ballance&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SVEditor provides a development environment for SystemVerilog, Verilog, and VHDL files. It features syntax coloring, structure display, content assist, and source formatting.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 08 Feb 2010 01:30:38 +0000</pubDate>
+ <dc:creator>mballance</dc:creator>
+ <guid isPermaLink="false">1136 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sveditor#comments</comments>
+  </item>
+  <item>
+    <title>Java 18 Support for Eclipse 2022-03 (4.23)</title>
+    <link>https://marketplace.eclipse.org/content/java-18-support-eclipse-2022-03-423</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jarthanaree/listings&quot; title=&quot;Jay Arthanareeswaran&quot;&gt;Jay Arthanareeswaran&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-01 23:43&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2022-03-23 11:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Foundation%22&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This marketplace solution provides Java 18 support for Eclipse 2022-03 (4.23). To install the feature place ensure you have the latest Eclipse release, which is 4.23.&lt;/p&gt;
+&lt;p&gt;You can also install this feature from the following p2 update site directly:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://download.eclipse.org/eclipse/updates/4.23-P-builds/&quot; rel=&quot;nofollow&quot;&gt;https://download.eclipse.org/eclipse/updates/4.23-P-builds/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Installation can be verified by creating a java project with default execution environment as Java-18.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Mar 2022 04:43:11 +0000</pubDate>
+ <dc:creator>jarthanaree</dc:creator>
+ <guid isPermaLink="false">5505813 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/java-18-support-eclipse-2022-03-423#comments</comments>
+  </item>
+  <item>
+    <title>iSphere for RDi 9.5.1.3+</title>
+    <link>https://marketplace.eclipse.org/content/isphere-rdi-9513</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/isphere_marketplace.jpg&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/traddatz/listings&quot; title=&quot;Thomas Raddatz&quot;&gt;Thomas Raddatz&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-01-10 16:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2022-03-23 02:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22iSphere%20Project%20Team%22&quot;&gt;iSphere Project Team&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;iSphere is an open source plug-in for IBM&#039;s Rational Developer for i 9.5.1.3+. It delivers high quality extensions to improve developer productivity.&lt;/p&gt;
+&lt;p&gt;IBM&#039;s current Eclipse based Integrated Development Environment (IDE) is a huge step beyond SEU, but it still lacks features available only on the green screen. That is where the iSphere Project comes into play, filling in those gaps.&lt;/p&gt;
+&lt;p&gt;Feature list:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Binding Directory Editor&lt;/li&gt;
+&lt;li&gt;Data Area Editor&lt;/li&gt;
+&lt;li&gt;User Space Editor&lt;/li&gt;
+&lt;li&gt;Data Queue Viewer&lt;/li&gt;
+&lt;li&gt;Message File Editor&lt;/li&gt;
+&lt;li&gt;Message File Compare Editor&lt;/li&gt;
+&lt;li&gt;Message File Search&lt;/li&gt;
+&lt;li&gt;Source File Search&lt;/li&gt;
+&lt;li&gt;Source Compare/Merge Editor&lt;/li&gt;
+&lt;li&gt;Spooled Files Subsystem&lt;/li&gt;
+&lt;li&gt;Lpex Task Tags&lt;/li&gt;
+&lt;li&gt;Host Object Decorator&lt;/li&gt;
+&lt;li&gt;RSE Filter Manager&lt;/li&gt;
+&lt;li&gt;Message Subsystem and Monitor&lt;/li&gt;
+&lt;li&gt;Job Log Explorer&lt;/li&gt;
+&lt;li&gt;Journal Explorer&lt;/li&gt;
+&lt;li&gt;Job Trace Explorer&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;iSphere is an Open Source project that is hosted on &lt;a href=&quot;https://sourceforge.net/projects/isphere/&quot; rel=&quot;nofollow&quot;&gt;Source Forge&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 10 Jan 2017 21:11:59 +0000</pubDate>
+ <dc:creator>traddatz</dc:creator>
+ <guid isPermaLink="false">3248963 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/isphere-rdi-9513#comments</comments>
+  </item>
+  <item>
+    <title>Bash Editor</title>
+    <link>https://marketplace.eclipse.org/content/bash-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/bash-editor-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-07-10 06:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-22 18:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Albert%20Tregnaghi%22&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This plugin is a bash script editor&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Integrated bash debugger&lt;/li&gt;
+&lt;li&gt;Run bash scripts from IDE by configurable parameters, environment variables etc.&lt;/li&gt;
+&lt;li&gt;Adds a configurable &quot;Open path in terminal&quot; action in project and package explorer&lt;/li&gt;
+&lt;li&gt;Marks variable occurrences&lt;/li&gt;
+&lt;li&gt;Templates (some defaults + customizable)&lt;/li&gt;
+&lt;li&gt;Tasks (some defaults + customizable)&lt;/li&gt;
+&lt;li&gt;Syntax highlighting&lt;/li&gt;
+&lt;li&gt;Outline
+&lt;ul&gt;&lt;li&gt;Can be sorted alphabetical&lt;/li&gt;
+&lt;li&gt;Can open call hierarchy for a function (context menu)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Quick-Outline (CTRL + o )&lt;/li&gt;
+&lt;li&gt;Open referenced functions by hyperlink (script, project or even workspace scope possible)&lt;/li&gt;
+&lt;li&gt;Bash Call Hierarchy&lt;/li&gt;
+&lt;li&gt;Mark occurrences in editor by double click to
+&lt;ul&gt;&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Feature can be toggled at toolbar (&quot;Toggle Mark Occurrences (ALT+SHIFT+O)&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Validation&lt;/li&gt;
+&lt;li&gt;Simple code completion (keywords + existing words)&lt;/li&gt;
+&lt;li&gt;Colors can be customized. Also additional defaults for dark theme exists.&lt;/li&gt;
+&lt;li&gt;Bracket switching + highlighting&lt;/li&gt;
+&lt;li&gt;Block commenting (CTRL+7)&lt;/li&gt;
+&lt;li&gt;Auto bracket closing for []&lt;/li&gt;
+&lt;li&gt;Small&lt;/li&gt;
+&lt;li&gt;Tooltips for keywords (offline description + link to online information)&lt;/li&gt;
+&lt;li&gt;Works on Linux, Windows and Mac out of the box.&lt;/li&gt;
+&lt;li&gt;Save Actions
+&lt;ul&gt;&lt;li&gt;External Tool can be used for auto format on save, default is set to beautysh&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Additional links&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/issues&quot; rel=&quot;nofollow&quot;&gt;Issue Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLaBYAz_I_8tF7sZVIcUv8zOVe2RMiWn-L&quot; rel=&quot;nofollow&quot;&gt;YouTube Videos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/releases&quot; rel=&quot;nofollow&quot;&gt;Release history&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/de-jcup/eclipse-bash-editor/wiki&quot; rel=&quot;nofollow&quot;&gt;Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Jul 2017 10:27:25 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3536358 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/bash-editor#comments</comments>
+  </item>
+  <item>
+    <title>Teamscale Integration for Eclipse</title>
+    <link>https://marketplace.eclipse.org/content/teamscale-integration-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/logo_114.png&quot; width=&quot;110&quot; height=&quot;25&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tkinnen/listings&quot; title=&quot;Thomas Kinnen&quot;&gt;Thomas Kinnen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-02-12 10:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-22 12:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22CQSE%20GmbH%22&quot;&gt;CQSE GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The &lt;em&gt;Teamscale Integration for Eclipse&lt;/em&gt; allows for seamless browsing of quality defects found by the &lt;a href=&quot;https://www.teamscale.com/&quot; rel=&quot;nofollow&quot;&gt;Teamscale software‐quality analysis server&lt;/a&gt;. Teamscale analyzes your source code incrementally with every commit, providing feedback on the quality of your code in near real‐time. (&lt;strong&gt;Note: An existing Teamscale Server is necessary to use this plugin!&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;This plugin has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Auto‐detect which branch is being used (Git &amp;amp; Subclipse/Subversive) and display all data accordingly&lt;/li&gt;
+&lt;li&gt;Display defects in the &lt;em&gt;Findings&lt;/em&gt; view&lt;/li&gt;
+&lt;li&gt;Allow comparison of clones using the clone compare editor&lt;/li&gt;
+&lt;li&gt;Display findings next to your code&lt;/li&gt;
+&lt;li&gt;Flag findings as tolerated or false-positive&lt;/li&gt;
+&lt;li&gt;Use baselines to only display defects that are new&lt;/li&gt;
+&lt;li&gt;Show test coverage from Teamscale server&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;To get started, Just follow the &lt;a href=&quot;https://cqse.eu/get-eclipse&quot; rel=&quot;nofollow&quot;&gt;installation guide&lt;/a&gt; and start using the Teamscale Integration in your Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&quot;https://docs.teamscale.com/changelog/&quot; rel=&quot;nofollow&quot;&gt;changelog&lt;/a&gt; to find out what’s new.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 12 Feb 2015 15:16:07 +0000</pubDate>
+ <dc:creator>tkinnen</dc:creator>
+ <guid isPermaLink="false">2188950 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/teamscale-integration-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>SonarLint</title>
+    <link>https://marketplace.eclipse.org/content/sonarlint</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sonarlint-110x80_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jhenrym6y/listings&quot; title=&quot;Julien HENRY&quot;&gt;Julien HENRY&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-10-15 14:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-22 09:04&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22SonarSource%20S.A%22&quot;&gt;SonarSource S.A&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. Like a spell checker, SonarLint squiggles flaws so they can be fixed before committing code. You can get it directly from the Eclipse Marketplace, and it will then detect new bugs and quality issues as you code (Java, JavaScript, PHP, Python and HTML).&lt;/p&gt;
+&lt;p&gt;If your project is analyzed on SonarQube or on SonarCloud, SonarLint can connect to the server to retrieve the appropriate quality profiles and settings for that project, as well as some additional languages support.&lt;/p&gt;
+&lt;p&gt;Discover more at &lt;a href=&quot;https://www.sonarlint.org&quot; rel=&quot;nofollow&quot;&gt;www.sonarlint.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SonarLint requires Eclipse to use Java 11+ as runtime (but you can analyze Java projects targeting older Java versions). For any question or feedback please join the &lt;a href=&quot;https://community.sonarsource.com/c/help/sl&quot; rel=&quot;nofollow&quot;&gt;SonarSource Community Forum&lt;/a&gt; .&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 15 Oct 2015 18:54:47 +0000</pubDate>
+ <dc:creator>jhenrym6y</dc:creator>
+ <guid isPermaLink="false">2568658 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/sonarlint#comments</comments>
+  </item>
+  <item>
+    <title>CodeTogether</title>
+    <link>https://marketplace.eclipse.org/content/codetogether</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/codetogether-full-logo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2020-03-05 15:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-22 08:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Genuitec%2C%20LLC%22&quot;&gt;Genuitec, LLC&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add &lt;a href=&quot;https://www.codetogether.com/dOpk/&quot; rel=&quot;nofollow&quot;&gt;CodeTogether&lt;/a&gt; to Eclipse to live share your IDE and coding sessions. Cross-IDE support for Eclipse, IntelliJ, and VS Code. See changes in real time, even when coding in the same file, like Google Docs for your code. So many uses: pair programming, mob programming, code review, project design, unit testing, education, interviews, remote development and more.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Free plan with anonymous usage is always available.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Cross-IDE support.&lt;/strong&gt; Host &lt;em&gt;and &lt;/em&gt;join from Eclipse, VS Code, or IntelliJ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser too. &lt;/strong&gt;IDE functionality with just a URL, even edit from a phone or tablet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simple and Easy. &lt;/strong&gt;See the &lt;a href=&quot;https://www.codetogether.com/XaVB/docs/getting-started-with-codetogether/&quot; rel=&quot;nofollow&quot;&gt;Getting Started Guide&lt;/a&gt; for details. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrated communications.&lt;/strong&gt; Audio, video, text chat, screen sharing, &amp;amp; more.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Secure. &lt;/strong&gt;Sessions are &lt;a href=&quot;https://www.codetogether.com/dOpk/download/security/&quot; rel=&quot;nofollow&quot;&gt;end-to-end encrypted&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Real-time editing. &lt;/strong&gt;See changes immediately, even when editing the same file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Host-based intelligence. &lt;/strong&gt;Exceptional content assist, validation &amp;amp; navigation for all.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficient. &lt;/strong&gt;No resource drain, lag time or artifacting like with screen sharing.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Shared consoles &amp;amp; terminals. &lt;/strong&gt;Host-controlled with optional write access.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share local servers. &lt;/strong&gt;Expose to your guests web apps running locally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Run tests.&lt;/strong&gt; Everyone gets to write, run &amp;amp; analyze tests; perfect for TDD.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Remote launches.&lt;/strong&gt; Guests can run applications from the host IDE.&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;CodeTogether Pro. &lt;/strong&gt;The perfect upgrade for professionals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether Teams. &lt;/strong&gt;Simplifies collaboration with team-centric flows.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeTogether On-Premises.&lt;/strong&gt; &lt;a href=&quot;https://www.codetogether.com/XaVB/on-premises/&quot; rel=&quot;nofollow&quot;&gt;Deploy&lt;/a&gt; behind your firewall. Supports multi-server deployment and SSO integration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SAP ABAP support. &lt;/strong&gt;Collaborate &amp;amp; live share code that resides on an SAP server.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 05 Mar 2020 20:48:34 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">5012014 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/codetogether#comments</comments>
+  </item>
+  <item>
+    <title>Mograsim</title>
+    <link>https://marketplace.eclipse.org/content/mograsim</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/mograsim_logo_110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cfemers/listings&quot; title=&quot;Christian Femers&quot;&gt;Christian Femers&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2020-09-05 14:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-22 05:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mograsim%20Team%22&quot;&gt;Mograsim Team&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Mograsim is a modular, graphical simulator for teaching microprogramming, ISAs and circuit logic in a way that allows for a smooth transition between those levels.&lt;/p&gt;
+&lt;p&gt;The aim is to give students a better understanding how these layers blend in a machine, and what the purpose of microprogramming is. In more detail, Mograsim allows:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Programming and running simple assembler on the machine (still in development)&lt;/li&gt;
+&lt;li&gt;Defining an ISA (Instruction Set Architecture) to use in the assembler (still in development)&lt;/li&gt;
+&lt;li&gt;Microprogram the CPU to implement the specified ISA&lt;/li&gt;
+&lt;li&gt;View the Circuit Logic operating in detail&lt;/li&gt;
+&lt;li&gt;Executing the microprogram step by step with custom speed&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Mograsim focuses especially on the AMD Am2900 Family microprocessors in a 16-bit arrangement also used by the Technical University of Munich as an example, but can be extended to support any other microprogrammable machine using the Eclipse plugin extension point mechanism.&lt;/p&gt;
+&lt;p&gt;Documentation and user guide: &lt;a href=&quot;https://mograsim.net&quot; rel=&quot;nofollow&quot;&gt;https://mograsim.net&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 05 Sep 2020 18:17:29 +0000</pubDate>
+ <dc:creator>cfemers</dc:creator>
+ <guid isPermaLink="false">5221306 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/mograsim#comments</comments>
+  </item>
+  <item>
+    <title>Spring Tools 3 Add-On for Spring Tools 4</title>
+    <link>https://marketplace.eclipse.org/content/spring-tools-3-add-spring-tools-4</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/sts3-marketplace-icon.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mlippert/listings&quot; title=&quot;Martin Lippert&quot;&gt;Martin Lippert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2018-09-25 17:35&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2022-03-22 03:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22VMware%22&quot;&gt;VMware&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Spring Tools 3 Add-On for Spring Tools 4&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Attention: This add-on pack provides additional components from the previous Spring Tools 3 generation to be installed into an Eclipse with Spring Tools 4 already installed. To avoid installation issues with overlapping features, this will NOT install everything from the previous Spring Tool Suite 3 into a plain Eclipse.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spring Tools 3 are no longer supported, users should upgrade to Spring Tools 4.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Spring Tools 3 contain the previous generation Spring tooling for Eclipse, mostly focused on working with Spring apps configured using XML and providing validation support for various additional Spring projects, like Spring AOP, Spring Webflow, Spring Integration, etc. This can be installed as an add-on into the Spring Tools 4 for Eclipse as well as into a plain Eclipse installation, if you still have projects that are not migrated to Spring Boot and/or you would like to continue to use features of the previous Spring tooling generation that aren&#039;t yet been part of the all-new Spring Tools 4.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Sep 2018 21:35:57 +0000</pubDate>
+ <dc:creator>mlippert</dc:creator>
+ <guid isPermaLink="false">4290168 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/spring-tools-3-add-spring-tools-4#comments</comments>
+  </item>
+  <item>
+    <title>Trace Compass</title>
+    <link>https://marketplace.eclipse.org/content/trace-compass</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;https://marketplace.eclipse.org/sites/default/files/tc.png&quot; width=&quot;110&quot; height=&quot;63&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/bhufmann/listings&quot; title=&quot;Bernd Hufmann&quot;&gt;Bernd Hufmann&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2016-03-17 14:47&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2022-03-21 11:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse.org%22&quot;&gt;Eclipse.org&lt;/a&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Eclipse Trace Compass is an open source application to solve performance and reliability issues by reading and analyzing logs or traces of a system. Its goal is to provide views, graphs, metrics, and more to help extract useful information from traces, in a way that is more user-friendly and informative than huge text dumps.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please note that starting with release 6.1.0 Trace Compass requires Java 11 to run (before Java 8)&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 17 Mar 2016 18:47:50 +0000</pubDate>
+ <dc:creator>bhufmann</dc:creator>
+ <guid isPermaLink="false">2780381 at https://marketplace.eclipse.org</guid>
+ <comments>https://marketplace.eclipse.org/content/trace-compass#comments</comments>
+  </item>
+  </channel>
+</rss>
