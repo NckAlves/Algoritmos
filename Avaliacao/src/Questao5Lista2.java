@@ -8,8 +8,8 @@ public static void main(String[] args) {
         
 
         for (int i = 0; i < 100; i++) {
-            num[i] = aleratorio.nextInt();
-            if ((num[i] % 2) == 1 || (num[i] % 2) == -1 ) {
+            num[i] = aleratorio.nextInt(500);
+            if ((num[i] % 2) == 1) {
                 System.out.println(num[i]);
             } 
         }

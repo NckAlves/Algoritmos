@@ -14,7 +14,7 @@ public static void main(String[] args) {
 
         media = (notas[0] + notas[1] + notas[2] + notas[3] + notas[4]) / 5;
 
-        System.out.printf("\nA media das notas é %f", media);
+        System.out.printf("\nA media das notas eh %f", media);
         s.close();
     }
 

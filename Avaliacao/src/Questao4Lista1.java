@@ -1,20 +1,20 @@
-import java.util.Random;
+import java.util.Scanner;
 
 public class Questao4Lista1 {
 
-public static void main(String[] args) {
+    public static void main(String[] args) {
         
-        int[] num = new int[100];
-        Random aleratorio = new Random();
+        Scanner s = new Scanner(System.in);
 
-        for (int i = 0; i < 100; i++) {
-            num[i] = aleratorio.nextInt();
-            
-            for (int j = 2; j <= (num[i]/2); j++) {
-                
-                System.out.println(num[i]);
-            }
-                
-        }
+        System.out.printf("Insira um numero: ");
+        int num1 = s.nextInt();
+
+        System.out.printf("Insira outro numero: ");
+        int num2 = s.nextInt();
+
+        if (num1 > num2) System.out.println("O primeiro numero eh maior");
+        else System.out.println("O segundo numero eh maior");
+
+        s.close();
     }
 }

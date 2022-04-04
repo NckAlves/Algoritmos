@@ -1,21 +1,23 @@
-import java.util.Random;
+import java.util.Scanner;
 
 public class Questao3Lista1 {
-public static void main(String[] args) {
-        
-        int[] num = new int[100];
-        Random aleratorio = new Random();
-        
+    public static void main(String[] args) {
 
-        for (int i = 0; i < 100; i++) {
-            num[i] = aleratorio.nextInt();
-            System.out.println(num[i]);
-        }
+        Scanner s = new Scanner(System.in);
 
-        for (int i = 99; i >=0; i--) {
-            System.out.println("Ordem inversa " + num[i]);
-        }
-       
+        System.out.printf("Insira o tamanho da base menor: ");
+        float baseMenor = s.nextFloat();
+
+        System.out.printf("Insira o tamanho da base maior: ");
+        float baseMaior = s.nextFloat();
+        
+        System.out.printf("Insra a altura do trapezio: ");
+        float altura = s.nextFloat();
+
+        float area = (baseMaior + baseMenor) * altura / 2;
+        System.out.printf("A area do trapezio eh %f", area);
+
+        s.close();
     }
 
 }

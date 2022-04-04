@@ -7,7 +7,7 @@ public static void main(String[] args) {
         Random aleratorio = new Random();
 
         for (int i = 0; i < 100; i++) {
-            num[i] = aleratorio.nextInt();
+            num[i] = aleratorio.nextInt(500);
             if ((num[i] % 2) == 0) {
                 System.out.println(num[i]);
             } 

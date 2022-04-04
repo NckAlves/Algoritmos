@@ -1,20 +1,18 @@
 import java.util.Scanner;
-import java.util.Stack;
 
 public class Questao2Lista1 {
 	public static void main(String[] args) {
         
         Scanner s = new Scanner(System.in);
-        Stack<Integer> num = new Stack<>();
+        
+        System.out.printf("Digite sua altura: ");
+        float altura = s.nextFloat();
 
-        for (int i = 0; i < 10; i++) {
-            System.out.printf("Insira um numero: ");
-            num.add(s.nextInt());
-        }
+        System.out.printf("Digite seu peso: ");
+        float peso = s.nextFloat();
 
-        for (int i = 0; i < 10; i++) {
-            System.out.println("Ordem inversa " + num.pop());
-        }
+        float imc = peso / (altura * altura);
+        System.out.printf("Seu IMC eh de %f", imc);
 
         s.close();
 	}

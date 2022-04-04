@@ -8,13 +8,15 @@ public static void main(String[] args) {
         
 
         for (int i = 0; i < 100; i++) {
-            num[i] = aleratorio.nextInt();
+            num[i] = aleratorio.nextInt(100);
 
-            for (int f = 2; f < (num[i] / 2); f++) {
-                if ((num[i] % f) != 0) {
-                    System.out.println(num[i]);
-                    break;
+            for (int j = 2; j < (num[i] / 2); j++) {
+                if ((num[i] % j) == 0) {
+                   break;
                 }
+                else if (j == (num[i] / 2)) {
+                    System.out.println(num[i]);
+                }   
             }
         }  
     }
